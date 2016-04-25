@@ -3,7 +3,10 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
+# Add Bootstrap Styles & Scripts
 gem 'bootstrap-sass', '~> 3.3.6'
+# Add Font Awesome Icons
+gem 'font-awesome-sass', '~> 4.5.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 3.2'
 # Use sqlite3 as the database for Active Record

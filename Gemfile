@@ -9,6 +9,8 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'font-awesome-sass', '~> 4.5.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 3.2'
+
+gem 'devise'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', group: [:development, :test]
 # Use postgresql as the database for production
